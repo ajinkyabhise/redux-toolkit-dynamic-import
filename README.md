@@ -71,7 +71,14 @@ example code :
   }
 ```
 
-step 4 : 
+step 4 :
+The next step is to run this cmd for dynamically importing store and models API:
+
+open the terminal and run : 
+
+`npm run config-toolkit`
+
+step 5 : 
 
 Integrate the store with front-end using the Provider from `react-redux`
 
@@ -120,13 +127,6 @@ const app = (
 ReactDOM.render(app, document.getElementById("root"))
 
 ```
-
-step 5 :
-The next step is to run this cmd for dynamically importing store and models API:
-
-open the terminal and run : 
-
-`npm run config-toolkit`
 
 step 6 :
 Add the backend application endpoint to the HTTP server file
