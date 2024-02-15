@@ -142,4 +142,8 @@ update the URL here `httpServer.js` is located in the `store` folder on root loc
     });
 ```
 
-FINALLY RUN YOU PROJECT AND ENJOY THE DYNAMIC CREATION OF REDUX TOOLKIT STORE
+FINALLY RUN YOU PROJECT AND ENJOY THE DYNAMIC CREATION OF REDUX TOOLKIT STORE.
+
+```npm run dev```
+
+for how to integrate api from pages please visit my blogs (https://medium.com/@ajinkyabhise012/automation-in-redux-toolkit-1cd8aff7ed46)
