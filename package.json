@@ -7,9 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev" : "node index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajinkyabhise/redux-toolkit-dynamic-import.git"
+  },
   "keywords": [
     "dy-import-toolkit"
   ],
   "author": "Ajinkya Bhise",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajinkyabhise/redux-toolkit-dynamic-import/issues"
+  },
+  "homepage": "https://github.com/ajinkyabhise/redux-toolkit-dynamic-import#readme"
 }
