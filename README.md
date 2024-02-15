@@ -122,6 +122,13 @@ ReactDOM.render(app, document.getElementById("root"))
 ```
 
 step 5 :
+The next step is to run this cmd for dynamically importing store and models API:
+
+open the terminal and run : 
+
+`npm run config-toolkit`
+
+step 6 :
 Add the backend application endpoint to the HTTP server file
 
 `httpServer.js`
@@ -135,12 +142,4 @@ update the URL here `httpServer.js` is located in the `store` folder on root loc
     });
 ```
 
-Step 6 :
-
-The last step is to run this cmd for dynamically importing store and models API:
-
-open the terminal and run : 
-
-`npm run config-toolkit`
-
-and run your project 
+FINALLY RUN YOU PROJECT AND ENJOY THE DYNAMIC CREATION OF REDUX TOOLKIT STORE
