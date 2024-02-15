@@ -1,6 +1,6 @@
 {
   "name": "redux-toolkit-dynamic-import",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "dynamically import/create store structure using the react toolkit ",
   "main": "index.js",
   "scripts": {
